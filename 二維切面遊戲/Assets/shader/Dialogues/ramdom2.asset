@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479b0fe2c6e614a4a943c0e39a09c961, type: 3}
+  m_Name: ramdom2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u50B3\u8AAA\u4E2D\uFF0C\u6709\u4E00\u500B\u5E36\u6709\u7284\u89D2\uFF0C\u8EAB\u9AD4\u9EDD\u9ED1\u7684\u6230\u58EB\u81EA\u5929\u800C\u964D"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: 0}
+    content: "\u4ED6\u624B\u4E2D\u7684\u6B66\u5668\u5982\u98A8\u822C\u51CC\u53B2\uFF0C\u65AC\u6BBA\u4E86\u6240\u6709\u64CB\u5728\u4ED6\u9762\u524D\u7684\u6575\u4EBA(\u87F2\uFF1F"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u4ED6\u66FE\u591A\u6B21\u8207\u6DF1\u6DF5\u5C0D\u5CD9\uFF0C\u672A\u5617\u4E00\u6557"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u64DA\u8AAA\u4ED6\u4EE5\u7A7A\u6D1E\u70BA\u540D\u3001\u5728\u4E16\u754C\u4E0A\u7559\u4E0B\u4E0D\u53EF\u62B9\u6EC5\u7684\u75D5\u8DE1"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u7576\u7136\u662F\u6211\u778E\u8AAA\u7684\u3001\u9019\u88E1\u751A\u9EBC\u90FD\u6C92\u6709\uFF0C\u66F4\u5225\u8AAA\u6545\u4E8B\u4E86"

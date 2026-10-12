@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479b0fe2c6e614a4a943c0e39a09c961, type: 3}
+  m_Name: NewDialogueSequence
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u554A\uFF01\u4E00\u500B\u65B0\u73A9\u5BB6\uFF01"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u6211\u60F3\u4F60\u5927\u6982\u662F\u958B\u4E86\u67D0\u500B\u7B28\u86CB\u50B3\u4E0A\u4F86\u7684\u6771\u6771\u800C\u4F86\u5230\u9019\u88E1\u7684\u5427\uFF1F\n(\u9664\u975E\u4F60\u662F\u8001\u5E2B\uFF0C\u55E8\uFF01\u8001\u5E2B\uFF01)"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u7C21\u55AE\u4F86\u8AAA......AD\u79FB\u52D5\u3001QE\u5207\u63DB\u5207\u9762\u3001\n\u5DE6\u9375\u653B\u64CA(WS\u4E0A\u4E0B\u780D)\u3001\u53F3\u9375\u98A8\u683C\u6280\u3001F\u96F7\u9054\u6383\u63CF\u3001shift\u885D\u523A\u3001R\u9053\u5177\n"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u55DA\u55EF.......\u5927\u6982\u9019\u9EBC\u591A\uFF1F\n\u958B\u767C\u8005\u53EF\u6C92\u9AD4\u529B\u641E\u66F4\u591A\uFF0C\u54C8\u54C8"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u4E5F\u8A31\u7B49\u9019\u500Bidea\u904E\u4E86\u7D44\u5167\u6703\u8B70\u5F8C\n\u9019\u88E1\u624D\u6703\u6709\u5176\u4ED6\u6771\u897F\u5427"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u73FE\u5728\u7684\u8A71......\u5C31\u96A8\u4F60\u4FBF\u5230\u8655\u6643\u6643\u5427\n\u53CD\u6B63\u4E5F\u6C92\u591A\u5C11\u6771\u897F\u80FD\u770B(\u6211\u9583\u73FE\u5668\u53BB\u54EA\u4E86\uFF1F)"

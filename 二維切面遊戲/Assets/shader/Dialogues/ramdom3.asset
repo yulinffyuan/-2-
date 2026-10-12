@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479b0fe2c6e614a4a943c0e39a09c961, type: 3}
+  m_Name: ramdom3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u4F60\u77E5\u9053\u55CE\uFF1F\n\u90A3\u500B\u6575\u4EBA\u5176\u5BE6\u6709\u540D\u5B50\uFF0C\u53EB\u7147\u9AF1"
+  - speakerName: "\u5947\u602A\u7684\u760B\u5B50"
+    speakerSide: 0
+    avatarSprite: {fileID: -763837504473582886, guid: 8e7ec1f4c6271f14c9bc7f1443c80f6a, type: 3}
+    content: "\u4F46\u662F\u4ED6\u4E0D\u559C\u6B61\u5225\u4EBA\u9019\u9EBC\u53EB\u4ED6"
